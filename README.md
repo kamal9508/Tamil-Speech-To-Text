@@ -37,4 +37,5 @@ Project/
 ├── uploads/ # Stores uploaded or recorded user audio files
 
 
+![image](https://github.com/user-attachments/assets/246dca1e-bcd4-4f36-ad46-7bf6cf844f9f)
 
